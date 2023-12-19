@@ -1,0 +1,5 @@
+Write terraform code to Create Virtual machine attach vnet and configure IIS server using terraform .
+
+Please complete POC task by 19th December 2023 .
+
+While writing  terraform please follow industry  standard  practice .
